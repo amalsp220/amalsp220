@@ -1,134 +1,284 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Amal%20S%20P&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- ============================================= -->
+<!-- ULTRA DYNAMIC ANIMATED HEADER WITH 3D EFFECT -->
+<!-- ============================================= -->
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9DB0&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%9A%80;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Specialist+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Kaggle+Competitor+%F0%9F%8F%86;MLOps+%26+Model+Deployment+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Amal%20S%20P&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
-<p>
-  <a href="https://github.com/amalsp220"><img src="https://img.shields.io/github/followers/amalsp220?label=Followers&style=for-the-badge&color=2D9DB0&labelColor=1e1e1e" alt="GitHub Followers"></a>
-  <a href="https://github.com/amalsp220"><img src="https://komarev.com/ghpvc/?username=amalsp220&style=for-the-badge&color=2D9DB0&labelColor=1e1e1e" alt="Profile Views"></a>
-  <a href="https://github.com/amalsp220?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-2D9DB0?style=for-the-badge&labelColor=1e1e1e" alt="Repositories"></a>
+<!-- ============================================= -->
+<!-- FLOATING ANIMATED BADGES WITH HOVER EFFECT -->
+<!-- ============================================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+AI%2FML+Engineer+%7C+Deep+Learning+Expert;%F0%9F%93%8A+Data+Scientist+%7C+MLOps+Specialist;%F0%9F%A7%A0+Machine+Learning+%7C+Computer+Vision;%F0%9F%8F%86+Kaggle+Competitor+%7C+AI+Innovator" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ============================================= -->
+<!-- NEON GLOWING PROFILE METRICS -->
+<!-- ============================================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amalsp220&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/amalsp220?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Repositories-9-brightgreen?style=for-the-badge&logo=github" alt="repos" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Deep%20Learning-blueviolet?style=for-the-badge&logo=tensorflow" alt="focus" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<!-- ============================================= -->
+<!-- ANIMATED CODE BLOCK WITH GLASSMORPHISM STYLE -->
+<!-- ============================================= -->
 
-## 👨‍💻 About Me
+## 💫 About Me - Interactive Profile
 
 ```python
-class AmalSP:
+class AIEngineer:
     def __init__(self):
         self.name = "Amal S P"
         self.role = "AI/ML Engineer & Data Scientist"
-        self.location = "Kerala, India 🇮🇳"
-        self.education = "Master's in Data Science"
-        self.specialization = ["Generative AI", "RAG Systems", "Model Deployment"]
-        self.currently_learning = ["LLMs", "Advanced Deep Learning", "MLOps"]
-        self.hobbies = ["Kaggle Competitions", "Open Source", "Tech Blogging"]
+        self.location = "📍 Kerala, India"
+        self.education = "🎓 Master's in Data Science"
+        self.passion = [
+            "🤖 Artificial Intelligence",
+            "📊 Machine Learning & Deep Learning", 
+            "💻 MLOps & Model Deployment",
+            "🏆 Kaggle Competitions",
+            "🚀 Innovation & Research"
+        ]
+        
+    def current_focus(self):
+        return {
+            "learning": ["Advanced Deep Learning", "Generative AI", "LLMs"],
+            "building": ["Production ML Systems", "AI Applications"],
+            "competing": "Kaggle & AI Hackathons",
+            "goal": "Securing AI/ML Role at Top MNC"
+        }
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
+    def get_skills(self):
+        return {
+            "languages": ["Python", "SQL"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
+            "nlp": ["Transformers", "BERT", "GPT", "Hugging Face"],
+            "cv": ["OpenCV", "YOLO", "CNN Architectures"],
+            "mlops": ["Docker", "MLflow", "Git", "AWS"],
+            "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+        }
 
-amal = AmalSP()
-amal.say_hi()
+me = AIEngineer()
+print(f"👋 Hi! I'm {me.name}, passionate about {', '.join(me.passion)}")
 ```
 
 <div align="center">
 
-### 🏆 Highlights
+<!-- ============================================= -->
+<!-- ANIMATED DIVIDER WITH GRADIENT -->
+<!-- ============================================= -->
 
-| 🎯 Achievement | 📊 Details |
-|:---|:---|
-| 🎓 **Education** | Master's in Data Science |
-| 💼 **Expertise** | Generative AI • RAG Systems • MLOps |
-| 🔥 **Projects** | 9+ Production-Ready ML Projects |
-| 🏅 **Competitions** | Active Kaggle Competitor |
-| 📍 **Location** | Kerala, India |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ============================================= -->
+<!-- HIGHLIGHTS TABLE WITH GLASSMORPHISM -->
+<!-- ============================================= -->
+
+## ✨ Quick Highlights - At A Glance
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Education & Background
+- 🎓 **Master's Degree** in Data Science
+- 📚 **Specialized Training** in AI/ML (2 months)
+- 🏆 **Active Kaggle** Competitor
+- 📄 **Research** in AI Applications
+
+</td>
+<td width="50%">
+
+### 💼 Professional Focus
+- 🤖 **AI/ML Engineering** & Development  
+- 📊 **Data Science** & Analytics
+- 🚀 **MLOps** & Production Deployment
+- 🎯 **Goal:** MNC AI/ML Role in Kerala
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ Core Expertise
+- 🧠 Deep Learning & Neural Networks
+- 📝 Natural Language Processing (NLP)
+- 👁️ Computer Vision & Image Processing
+- ⏱️ Time Series Forecasting
+
+</td>
+<td width="50%">
+
+### 🎯 Current Projects
+- 📈 **4 Production-Ready** ML Projects
+- 🐳 **Dockerized** All Projects
+- 🃏 **89-94% Accuracy** Across Models
+- 📄 **Comprehensive Docs** & Notebooks
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<!-- ============================================= -->
+<!-- ANIMATED TECH STACK WITH HOVER ICONS -->
+<!-- ============================================= -->
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal - Interactive Toolkit
 
-<details open>
-<summary><b>📚 Programming Languages</b></summary>
-<br>
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔥 Core Technologies
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
-<br>
+### 🧠 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-0A0A0A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
-</details>
+### 📈 Data Science & Visualization
 
-<details open>
-<summary><b>🧠 Generative AI & NLP</b></summary>
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🚀 MLOps & Deployment
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0066CC?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>⚙️ MLOps & Deployment</b></summary>
-<br>
+### 💾 Database & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
 
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details open>
-<summary><b>📊 Data Visualization & Analytics</b></summary>
-<br>
+</div>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<!-- ============================================= -->
+<!-- FEATURED PROJECTS WITH ANIMATED CARDS -->
+<!-- ============================================= -->
 
-</details>
+## 🌟 Featured Projects - Portfolio Showcase
 
-<details open>
-<summary><b>💾 Databases & Tools</b></summary>
-<br>
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<td width="50%" align="center">
 
-</details>
+### 📈 [Time Series Forecasting](https://github.com/amalsp220/time-series-forecasting)
 
----
+[![Accuracy](https://img.shields.io/badge/Accuracy-89%25-success?style=for-the-badge&logo=chartdotjs)](https://github.com/amalsp220/time-series-forecasting)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amalsp220/time-series-forecasting)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/amalsp220/time-series-forecasting)
+[![Stars](https://img.shields.io/github/stars/amalsp220/time-series-forecasting?style=for-the-badge&logo=github)](https://github.com/amalsp220/time-series-forecasting)
 
-## 🚀 Featured Projects
+**Advanced forecasting** with ARIMA, LSTM & Prophet  
+🐳 Docker containerized | 📊 Interactive dashboard | 🏆 Production-ready
+
+[View Project →](https://github.com/amalsp220/time-series-forecasting)
+
+</td>
+<td width="50%" align="center">
+
+### 🖌️ [Image Classification CNN](https://github.com/amalsp220/image-classification-cnn)
+
+[![Accuracy](https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=for-the-badge&logo=tensorflow)](https://github.com/amalsp220/image-classification-cnn)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amalsp220/image-classification-cnn)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/amalsp220/image-classification-cnn)
+[![Stars](https://img.shields.io/github/stars/amalsp220/image-classification-cnn?style=for-the-badge&logo=github)](https://github.com/amalsp220/image-classification-cnn)
+
+**Deep CNN architecture** for image recognition  
+🔥 GPU optimized | 🐳 Dockerized | 🎯 Transfer learning
+
+[View Project →](https://github.com/amalsp220/image-classification-cnn)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📝 [Sentiment Analysis NLP](https://github.com/amalsp220/sentiment-analysis-nlp)
+
+[![Accuracy](https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge&logo=pytorch)](https://github.com/amalsp220/sentiment-analysis-nlp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amalsp220/sentiment-analysis-nlp)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/amalsp220/sentiment-analysis-nlp)
+[![Stars](https://img.shields.io/github/stars/amalsp220/sentiment-analysis-nlp?style=for-the-badge&logo=github)](https://github.com/amalsp220/sentiment-analysis-nlp)
+
+**BERT-based sentiment classifier** for text analytics  
+🧠 Transformer models | 🌐 Multi-language | ⚡ Real-time API
+
+[View Project →](https://github.com/amalsp220/sentiment-analysis-nlp)
+
+</td>
+<td width="50%" align="center">
+
+### 📊 [Customer Churn Prediction](https://github.com/amalsp220/customer-churn-prediction)
+
+[![Accuracy](https://img.shields.io/badge/Accuracy-86%25-yellowgreen?style=for-the-badge&logo=scikit-learn)](https://github.com/amalsp220/customer-churn-prediction)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amalsp220/customer-churn-prediction)
+[![ML](https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/amalsp220/customer-churn-prediction)
+[![Stars](https://img.shields.io/github/stars/amalsp220/customer-churn-prediction?style=for-the-badge&logo=github)](https://github.com/amalsp220/customer-churn-prediction)
+
+**Ensemble learning** for business analytics  
+📦 Feature engineering | 🔍 SHAP analysis | 📈 Dashboard
+
+[View Project →](https://github.com/amalsp220/customer-churn-prediction)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<!-- ============================================= -->
+<!-- GITHUB STATS WITH ANIMATED EFFECTS -->
+<!-- ============================================= -->
+
+## 📈 GitHub Statistics - Performance Metrics
 
 <div align="center">
 
@@ -136,103 +286,52 @@ amal.say_hi()
 <tr>
 <td width="50%">
 
-### 🔮 Time Series Forecasting
-
-**ARIMA • LSTM • Prophet**
-
-<img src="https://img.shields.io/badge/Accuracy-89%25-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker" />
-
-📊 Advanced forecasting with seasonal decomposition
-🧠 Multiple model ensemble
-🐳 Production deployment
-
-[**➡️ View Project**](https://github.com/amalsp220/time-series-forecasting)
+<img src="https://github-readme-stats.vercel.app/api?username=amalsp220&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" width="100%" alt="GitHub Stats"/>
 
 </td>
 <td width="50%">
 
-### 📸 Image Classification CNN
-
-**ResNet • EfficientNet • Transfer Learning**
-
-<img src="https://img.shields.io/badge/Accuracy-94%25-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GPU-Optimized-76B900?style=for-the-badge&logo=nvidia" />
-
-🎨 CIFAR-10 classification
-📊 Data augmentation pipeline
-⚡ Fast inference
-
-[**➡️ View Project**](https://github.com/amalsp220/image-classification-cnn)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsp220&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" alt="GitHub Streak"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💬 Sentiment Analysis NLP
-
-**BERT • RoBERTa • Transformers**
-
-<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-Advanced-FFD21E?style=for-the-badge&logo=huggingface" />
-
-🐦 Twitter sentiment analysis
-🎯 92%+ accuracy
-🤖 BERT fine-tuning
-
-[**➡️ View Project**](https://github.com/amalsp220/sentiment-analysis-nlp)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsp220&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="100%" alt="Top Languages"/>
 
 </td>
 <td width="50%">
 
-### 📉 Customer Churn Prediction
-
-**ML Classification • Feature Engineering**
-
-<img src="https://img.shields.io/badge/Accuracy-86%25-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EDA-Complete-FF6B6B?style=for-the-badge" />
-
-📊 Comprehensive EDA
-🎯 Model comparison
-🚀 API deployment
-
-[**➡️ View Project**](https://github.com/amalsp220/customer-churn-prediction)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
 
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/amalsp220?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-%E2%86%92-2D9DB0?style=for-the-badge&logoColor=white" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<!-- ============================================= -->
+<!-- GITHUB TROPHIES WITH ANIMATIONS -->
+<!-- ============================================= -->
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies - Achievements Unlocked
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amalsp220&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9DB0&icon_color=2D9DB0&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalsp220&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D9DB0&ring=2D9DB0&fire=FF6B6B&currStreakLabel=2D9DB0" />
+<img src="https://github-profile-trophy.vercel.app/?username=amalsp220&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="trophy"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsp220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9DB0&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9DB0&line=2D9DB0&point=FF6B6B" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
+<!-- ============================================= -->
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<!-- ============================================= -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amalsp220&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake - Activity Visualization
 
 <div align="center">
 
@@ -242,164 +341,249 @@ amal.say_hi()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amalsp220/amalsp220/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
----
-
-## 📊 Advanced Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalsp220&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalsp220&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalsp220&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalsp220&theme=tokyonight" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<!-- ============================================= -->
+<!-- ADVANCED METRICS WITH ANIMATIONS -->
+<!-- ============================================= -->
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⚡ Skills & Proficiency
-
-<div align="center">
-
-### Machine Learning & AI
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="40" />
-<br>
-![Machine Learning](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-
-### Data Science & Analytics
-<img src="https://skillicons.dev/icons?i=r,postgres,mongodb" height="40" />
-<br>
-![Data Analysis](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-
-### MLOps & Deployment
-<img src="https://skillicons.dev/icons?i=docker,git,github" height="40" />
-<br>
-![Docker](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/Expertise-Intermediate-yellow?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Expertise-Intermediate-yellow?style=for-the-badge)
-
-### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,linux" height="40" />
-<br>
-![VS Code](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
-
-</div>
-
----
-
-## 📅 WakaTime Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amalsp220&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9DB0&icon_color=2D9DB0&text_color=FFFFFF&layout=compact" />
-
-</div>
-
----
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-```diff
-+ 🎓 Master's in Data Science - Completed
-+ 💼 2 Months AI/ML Training - Industry Expert Led
-+ 🏅 Active Kaggle Competitor - Problem Solver
-+ 🚀 9+ Production ML Projects - Deployed
-+ 💻 Open Source Contributor - Community Builder
-```
-
-</div>
-
----
-
-## 🔥 Current Focus
+## 💡 Advanced Metrics - Deep Insights
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65px"/>
-<br><b>Deep Learning</b>
-<br><sub>Neural Networks</sub>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amalsp220&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" width="100%" alt="WakaTime Stats"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23412991" width="65px"/>
-<br><b>LLMs</b>
-<br><sub>GPT & RAG</sub>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalsp220&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker" width="65px"/>
-<br><b>MLOps</b>
-<br><sub>Deployment</sub>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalsp220&theme=tokyonight" width="100%" alt="Repos per Language"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=kaggle" width="65px"/>
-<br><b>Competitions</b>
-<br><sub>Real-world AI</sub>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalsp220&theme=tokyonight" width="100%" alt="Most Commit Language"/>
+
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<!-- ============================================= -->
+<!-- SKILLS & PROFICIENCY WITH ICONS -->
+<!-- ============================================= -->
+
+## 🎯 Skills & Proficiency - Expertise Levels
+
+<div align="center">
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br><strong>Sklearn</strong>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+</tr>
+</table>
+
+### 📊 Data Science & Analytics
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br><strong>NumPy</strong>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Matplotlib" />
+<br><strong>Matplotlib</strong>
+</td>
+<td align="center" width="96">
+<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DCC5-seeklogo.com.png" width="48" height="48" alt="Seaborn" />
+<br><strong>Seaborn</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+<br><strong>Jupyter</strong>
+</td>
+</tr>
+</table>
+
+### 🚀 MLOps & Development Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><strong>AWS</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+</tr>
+</table>
+
+### 🏛️ Databases & APIs
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br><strong>SQLite</strong>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<!-- ============================================= -->
+<!-- CONNECT WITH ME SECTION -->
+<!-- ============================================= -->
+
+## 🔗 Connect With Me - Let's Collaborate!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amalsp220/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.kaggle.com/amalsp220" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://github.com/amalsp220" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:amalsp220@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://huggingface.co/amalsp220" target="_blank">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💬 Open for Opportunities
+
+<p>
+🚀 <strong>Looking for AI/ML Engineering roles at top MNC companies</strong><br/>
+📍 <strong>Location: Kerala, India</strong> (Open to relocation)<br/>
+💼 <strong>Specialization:</strong> Machine Learning, Deep Learning, MLOps<br/>
+✨ <strong>Interests:</strong> Generative AI, LLMs, Computer Vision, NLP
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<!-- ============================================= -->
+<!-- INSPIRATIONAL QUOTE -->
+<!-- ============================================= -->
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⭐ Show Some Love!
+
+<p>
+<strong>If you find my projects interesting, please consider giving them a ⭐ star!</strong><br/>
+<em>It motivates me to keep building and sharing amazing AI/ML projects!</em>
+</p>
+
+</div>
+
+<!-- ============================================= -->
+<!-- FOOTER WITH WAVE ANIMATION -->
+<!-- ============================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amalsp220&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amalsp220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/amalsp220"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.kaggle.com/amalsp220"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://amalsp220.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+**👨‍💻 Made with ❤️ by [Amal S P](https://github.com/amalsp220)**
 
-### 📬 Open for Collaborations!
-
-<img src="https://img.shields.io/badge/AI%20Projects-Yes-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ML%20Research-Yes-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge" />
+*© 2025 | AI/ML Engineer & Data Scientist*
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ "Building intelligent solutions, one model at a time" ✨
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### Show some ❤️ by starring some repositories!
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
