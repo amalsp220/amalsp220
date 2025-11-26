@@ -221,6 +221,104 @@ amal.say_hi()
 
 </div>
 
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amalsp220&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalsp220/amalsp220/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amalsp220/amalsp220/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amalsp220/amalsp220/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📊 Advanced Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalsp220&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amalsp220&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amalsp220&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amalsp220&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⚡ Skills & Proficiency
+
+<div align="center">
+
+### Machine Learning & AI
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="40" />
+<br>
+![Machine Learning](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+
+### Data Science & Analytics
+<img src="https://skillicons.dev/icons?i=r,postgres,mongodb" height="40" />
+<br>
+![Data Analysis](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+
+### MLOps & Deployment
+<img src="https://skillicons.dev/icons?i=docker,git,github" height="40" />
+<br>
+![Docker](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/Expertise-Intermediate-yellow?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Expertise-Intermediate-yellow?style=for-the-badge)
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,linux" height="40" />
+<br>
+![VS Code](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Expertise-Advanced-2D9DB0?style=for-the-badge)
+
+</div>
+
+---
+
+## 📅 WakaTime Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amalsp220&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9DB0&icon_color=2D9DB0&text_color=FFFFFF&layout=compact" />
+
+</div>
+
+---
+
 ---
 
 ## 🏆 Achievements & Certifications
