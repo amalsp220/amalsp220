@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH GRADIENT WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Amal%20S%20P&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Data%20Scientist&descSize=20&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x231942,0x5e548e&height=200&section=header&text=Amal%20S%20P&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Data%20Scientist&descSize=20&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9F86C0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Production-Ready+ML+Solutions;Specializing+in+Deep+Learning+%26+NLP;Open+to+Opportunities+at+Top+MNCs" alt="Typing SVG" />
@@ -157,7 +157,7 @@ me.say_hi()
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x231942,0x5e548e&height=120&section=footer"/>
 
 ### 👨‍💻 Made with ❤️ by [Amal S P](https://github.com/amalsp220)
 **© 2025 | AI/ML Engineer & Data Scientist | Kerala, India**
