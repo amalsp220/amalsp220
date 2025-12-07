@@ -1,26 +1,25 @@
 <div align="center">
 
-<!-- GREEN AND BLACK THEMED HEADER -->
-<picture>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amal%20S%20P&fontSize=60&fontColor=00ff00&animation=twinkling&fontAlignY=40&desc=AI/ML%20Engineer%20|%20Data%20Scientist&descSize=15&descAlignY=55&descAlign=50" alt="Header"/>
-</picture>
+<!-- ANIMATED HEADER WITH GRADIENT WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Amal%20S%20P&fontSize=60&fontColor=E0B1CB&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Data%20Scientist&descSize=20&descAlignY=55&descAlign=50"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+Intelligent+Systems;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Production-Ready+ML+Solutions" alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- BADGES WITH GREEN THEME -->
-[![Profile Views](https://komarev.com/ghpvc/?username=amalsp220&label=Profile%20Views&color=00ff00&style=for-the-badge&logo=github)](https://github.com/amalsp220)
-[![Followers](https://img.shields.io/github/followers/amalsp220?label=Followers&style=for-the-badge&color=00ff00&logo=github)](https://github.com/amalsp220)
-[![Repositories](https://img.shields.io/badge/Repositories-12-00ff00?style=for-the-badge&logo=github)](https://github.com/amalsp220)
-[![Focus](https://img.shields.io/badge/Focus-AI/ML-00ff00?style=for-the-badge&logo=tensorflow)](https://github.com/amalsp220)
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9F86C0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Production-Ready+ML+Solutions;Specializing+in+Deep+Learning+%26+NLP;Open+to+Opportunities+at+Top+MNCs" alt="Typing SVG" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- PROFILE STATS WITH PURPLE THEME -->
+<div align="center" style="background: linear-gradient(135deg, #231942 0%, #5e548e 100%); padding: 20px; border-radius: 15px;">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=amalsp220&label=Profile%20Views&color=9F86C0&style=for-the-badge)](https://github.com/amalsp220)
+[![GitHub Followers](https://img.shields.io/github/followers/amalsp220?label=Followers&style=for-the-badge&color=BE95C4&logo=github)](https://github.com/amalsp220?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/amalsp220?label=Stars&style=for-the-badge&color=E0B1CB&logo=github)](https://github.com/amalsp220?tab=repositories)
 
-## 💫 About Me - Interactive Profile
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 ```python
 class AIEngineer:
@@ -28,137 +27,141 @@ class AIEngineer:
         self.name = "Amal S P"
         self.role = "AI/ML Engineer & Data Scientist"
         self.location = "📍 Kerala, India"
-        self.education = "🎓 Master's in Data Science"
-        self.passion = [
-            "🤖 Artificial Intelligence",
-            "📊 Machine Learning & Deep Learning",
-            "💻 MLOps & Model Deployment",
-            "🏆 Kaggle Competitions",
-            "🚀 Innovation & Research"
-        ]
-    
-    def current_focus(self):
-        return {
-            "learning": ["Advanced Deep Learning", "Generative AI", "LLMs"],
-            "building": ["Production ML Systems", "AI Applications"],
-            "competing": "Kaggle & AI Hackathons",
-            "goal": "Securing AI/ML Role at Top MNC"
-        }
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-            "nlp": ["Transformers", "BERT", "GPT", "Hugging Face"],
-            "cv": ["OpenCV", "YOLO", "CNN Architectures"],
-            "mlops": ["Docker", "MLflow", "Git", "AWS"],
-            "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
-        }
+        self.education = "B.Tech in Computer Science"
+        self.focus = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+        self.current_work = "Building Production-Ready ML Solutions"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's innovate together!")
 
 me = AIEngineer()
-print(f"👋 Hi! I'm {me.name}, passionate about AI/ML Engineering!")
+me.say_hi()
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🌟 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🔍 [deepfake-image-detector](https://github.com/amalsp220/deepfake-image-detector)
-![AI](https://img.shields.io/badge/AI-00ff00?style=for-the-badge&logo=tensorflow&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff00)
-![Streamlit](https://img.shields.io/badge/Streamlit-00ff00?style=for-the-badge&logo=streamlit&logoColor=black)
-
-**ViT-based deepfake detection** with GPU acceleration  
-🎯 Computer Vision | 🚀 Streamlit UI | ⚡ Real-time Detection
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 📰 [fake-news-detector](https://github.com/amalsp220/fake-news-detector)
-![NLP](https://img.shields.io/badge/NLP-00ff00?style=for-the-badge&logo=python&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=huggingface&logoColor=00ff00)
-![SHAP](https://img.shields.io/badge/SHAP-00ff00?style=for-the-badge&logoColor=black)
-
-**BERT-based fake news detection** with explainability  
-🧠 Transformers | 📊 SHAP/LIME | 🎯 92% Accuracy
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🤖 [ai-tool-recommender-chatbot](https://github.com/amalsp220/ai-tool-recommender-chatbot)
-![RAG](https://img.shields.io/badge/RAG-00ff00?style=for-the-badge&logo=openai&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=ai&logoColor=00ff00)
-![Tools](https://img.shields.io/badge/16763_Tools-00ff00?style=for-the-badge&logoColor=black)
-
-**RAG-powered AI tool recommender** with semantic search  
-🔍 Semantic Search | 💬 LLM | 🎯 Production-Ready
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🖼️ [image-classification-cnn](https://github.com/amalsp220/image-classification-cnn)
-![CNN](https://img.shields.io/badge/CNN-00ff00?style=for-the-badge&logo=tensorflow&logoColor=black)
-![Accuracy](https://img.shields.io/badge/Accuracy_94%25-000000?style=for-the-badge&logoColor=00ff00)
-![GPU](https://img.shields.io/badge/GPU-00ff00?style=for-the-badge&logo=nvidia&logoColor=black)
-
-**Deep CNN for image classification** on CIFAR-10  
-🔥 GPU Optimized | 🐳 Dockerized | 🎯 Transfer Learning
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amalsp220&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" width="49%" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsp220&theme=radical&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="49%" alt="Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsp220&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00" width="49%" alt="Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="49%" alt="Activity"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🔗 Connect With Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/amalsp/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00ff00)](https://www.kaggle.com/amalsp220)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/amalsp220)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:amalsp220@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-00ff00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/amalsp220)
+### 🤖 **AI/ML & Deep Learning**
+![Python](https://img.shields.io/badge/Python-231942?style=for-the-badge&logo=python&logoColor=E0B1CB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-5E548E?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-9F86C0?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-BE95C4?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-E0B1CB?style=for-the-badge&logo=keras&logoColor=231942)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-231942?style=for-the-badge&logo=huggingface&logoColor=E0B1CB)
+
+### 💾 **Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-5E548E?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-9F86C0?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-BE95C4?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E0B1CB?style=for-the-badge&logo=python&logoColor=231942)
+
+### ☁️ **Cloud & MLOps**
+![AWS](https://img.shields.io/badge/AWS-231942?style=for-the-badge&logo=amazon-aws&logoColor=E0B1CB)
+![Docker](https://img.shields.io/badge/Docker-5E548E?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9F86C0?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-BE95C4?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🗄️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-E0B1CB?style=for-the-badge&logo=mongodb&logoColor=231942)
+![MySQL](https://img.shields.io/badge/MySQL-231942?style=for-the-badge&logo=mysql&logoColor=E0B1CB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E548E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 💬 Open for Opportunities
+## 📊 **GitHub Analytics**
 
-🚀 **Looking for AI/ML Engineering roles at top MNC companies**  
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amalsp220&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=231942&title_color=E0B1CB&icon_color=BE95C4&text_color=9F86C0&border_color=5E548E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsp220&layout=compact&langs_count=8&theme=material-palenight&bg_color=231942&title_color=E0B1CB&text_color=9F86C0&border_color=5E548E"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amalsp220&theme=material-palenight&background=231942&ring=E0B1CB&fire=BE95C4&currStreakLabel=9F86C0&sideNums=E0B1CB&currStreakNum=BE95C4&sideLabels=9F86C0&dates=5E548E&border=5E548E)](https://github.com/amalsp220)
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 💻 Tech Stack |
+|:---:|:---:|:---:|
+| **Deepfake Detection** | High-accuracy deepfake image detection system | Python, TensorFlow, CNN |
+| **NLP Sentiment Analyzer** | Real-time sentiment analysis for social media | PyTorch, Transformers, BERT |
+| **ML Pipeline Automation** | End-to-end MLOps pipeline with CI/CD | Docker, Kubernetes, AWS |
+| **Computer Vision API** | Production-ready object detection API | FastAPI, YOLOv8, Redis |
+
+</div>
+
+---
+
+## 💼 **Open for Opportunities**
+
+<div align="center" style="background: linear-gradient(135deg, #231942 0%, #5e548e 100%); padding: 20px; border-radius: 15px;">
+
+### 🎯 **Actively Seeking**
+
+🔹 **AI/ML Engineering roles at top MNC companies**  
 📍 **Location:** Kerala, India (Open to relocation)  
-💼 **Specialization:** Machine Learning, Deep Learning, MLOps  
-✨ **Interests:** Generative AI, LLMs, Computer Vision, NLP
+🎓 **Specialization:** Machine Learning, Deep Learning, MLOps  
+✨ **Interests:** Generative AI, LLMs, Computer Vision, NLP  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-BE95C4?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amalsp220)
+[![Email](https://img.shields.io/badge/Email-Contact-9F86C0?style=for-the-badge&logo=gmail)](mailto:amalsp220@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-E0B1CB?style=for-the-badge&logo=google-chrome&logoColor=231942)](https://github.com/amalsp220)
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amalsp220&label=Profile%20Views&color=00ff00&style=flat-square)
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalsp220&theme=material-palenight&bg_color=231942&color=E0B1CB&line=BE95C4&point=9F86C0&area=true&hide_border=false&border_color=5E548E)](https://github.com/amalsp220)
 
-**👨‍💻 Made with ❤️ by [Amal S P](https://github.com/amalsp220)**  
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amalsp220&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&title_color=E0B1CB&text_color=9F86C0&icon_color=BE95C4&bg_color=231942)](https://github.com/amalsp220)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Random Dev Quote**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=5E548E&quote_color=E0B1CB&author_color=BE95C4&bg_color=231942)
+
+</div>
+
+---
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+
+### 👨‍💻 Made with ❤️ by [Amal S P](https://github.com/amalsp220)
 **© 2025 | AI/ML Engineer & Data Scientist | Kerala, India**
+
+*"Turning data into intelligence, one model at a time"*
 
 </div>
