@@ -134,6 +134,31 @@ me.say_hi()
 
 ---
 
+## 🚀 **Featured Project**
+
+### 🧠 [MedBRAIN AI - Medical Assistant Chatbot](https://github.com/amalsp220/MedBRAIN-AI)
+
+> **Live Demo:** [https://huggingface.co/spaces/amalsp/MedBRAIN-AI](https://huggingface.co/spaces/amalsp/MedBRAIN-AI)
+
+A production-ready AI-powered medical assistant chatbot that provides accurate, real-time medical information.
+
+**🎯 Key Features:**
+- 🤖 Powered by Groq's LLaMA 3.1 8B Instant model
+- ⚡ Ultra-fast response times (< 3 seconds)
+- 🎨 Clean, professional Gradio interface
+- 🔒 Secure API key management
+- 💯 100% free deployment on Hugging Face Spaces
+- ⚕️ Educational medical information with safety disclaimers
+
+**🛠️ Tech Stack:** Python | Gradio | Groq API | Hugging Face Spaces | Git
+
+[![View Project](https://img.shields.io/badge/View_Live_Demo-🧠_MedBRAIN_AI-9F86C0?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/amalsp/MedBRAIN-AI)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-231942?style=for-the-badge&logo=github)](https://github.com/amalsp220/MedBRAIN-AI)
+
+
+
+---
+
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
